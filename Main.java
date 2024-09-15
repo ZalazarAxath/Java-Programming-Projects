@@ -1,3 +1,4 @@
+//DISPLAYTEXT Welcome to Java AND Welcome to Computer Science AND Programming is fun
 public class Main {
     public static void main(String[] args) throws Exception {
         System.out.println("Welcome to Java");
