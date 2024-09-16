@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Excercise2_1 {
+public class Exercise2_1 {
     public static void main (String args[])  {  
        //INITIALIZEINPUT
        Scanner tempCelsius = new Scanner(System.in);
