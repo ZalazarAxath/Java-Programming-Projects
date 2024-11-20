@@ -5,7 +5,7 @@ public class Exercise5_7 {
         int totalCost = 0;
         int tuitionTenthYear = 0;
 
-        //Increase tuition boy 5% for each year
+        //Increase tuition by 5% for each year
         for (int year = 1; year <= 14; year++) {
             tuition += (tuition * 0.05);
 
