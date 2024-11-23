@@ -22,9 +22,9 @@ public class Exercise7_8 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
-        // Prompt the user to enter ten double values
+        // Prompt the user to enter ten numbers
         double[] doubleArray = new double[10];
-        System.out.println("Enter ten double values:");
+        System.out.println("Enter ten numbers:");
         for (int i = 0; i < doubleArray.length; i++) {
             doubleArray[i] = scanner.nextDouble(); // Read input values
         }
